@@ -1,3 +1,3 @@
 # intern-training-nawsha
 my name is nawsha
-updated README for partice
+updated README for pratice
