@@ -1,5 +1,12 @@
-# intern-training-nawsha
-my name is nawsha
+ HEAD
+This is my branch-a practice
 
-### Hello Guys!!!
-This is my practice change.
+This is my branch-b practice
+my name is nawsha
+ branch-b
+
+
+my name is nawsha 
+hello guys!!!
+this is my practice  change
+Today I practiced Git branches.
